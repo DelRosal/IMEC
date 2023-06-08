@@ -13,7 +13,7 @@ graph.node("WAITING")
 graph.attr('node', shape='circle')
   
 #EDGES
-
+graph.edge("","WAITING")
 graph.edge("WAITING","↑", label='TURN 90')
 graph.edge("WAITING","↓", label='TURN 180')
 graph.edge("WAITING","←", label='TURN 270')
