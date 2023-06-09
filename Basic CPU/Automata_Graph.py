@@ -22,7 +22,7 @@ graph.edge("WAITING","↓", label='TURN 180')
 graph.edge("WAITING","←", label='TURN 270')
 graph.edge("WAITING","→", label='TURN 360')
 
-graph.edge("WAITING","MOVE", label='MOVE X')
+graph.edge("WAITING","MOVE", label='MOV X')
 graph.edge("MOVE","WAITING", label='  ε  ')
 
 graph.edge("↑","PIT STOP", label='  ε  ')
