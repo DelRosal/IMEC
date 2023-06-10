@@ -9,7 +9,7 @@ DESCRIPTION
 ### List of input ###
 
 ### Example ###
-<img width="650" alt="image" src="https://github.com/DelRosal/IMEC/assets/99361062/e0b88925-857b-45b0-b1c5-22e0b56b91e3">
+<img width="650" alt="image" src="https://github.com/DelRosal/IMEC/assets/99361062/b5ac593c-b754-41ab-8fc2-1c6cf336182b">
 
 ## Links ##
 
