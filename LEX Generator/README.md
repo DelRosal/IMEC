@@ -50,4 +50,4 @@ AMOUNT        | [0-9]+
 
 __**[Github Main Project link](https://github.com/DelRosal/IMEC "Main Project")**__
 
-__**[Github Deliverable I link](https://github.com/DelRosal/IMEC/tree/main/LEX%20Generator "Deliverable II")**__ 
+__**[Github Deliverable II link](https://github.com/DelRosal/IMEC/tree/main/LEX%20Generator "Deliverable II")**__ 
