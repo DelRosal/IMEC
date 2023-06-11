@@ -1,9 +1,34 @@
 Deliverable II: Lex Generator
 =============
 
-INTRODUCTION
+This segment of the project is in charge of generating tokens that simplify common human instructions, so they can be later processed and traduced for the CPU Simulator. To generate the tokens it must be considered the different ways a human can generate a command with the same outcome. 
+
 
 ### Logic ###
+
+
+The robot is only capable of understand MOVE and TURN directions, therefore, an alalysis was made upon each instruction, its components and the diverse phrasings. 
+
+The following list shows the parts of a human instruction:
+
+1. **Parts of a sentence**
+    1. Noun: The robot is addressed in the sentence as a being or its name.
+    2. Politeness: Every instruction must be polite, including a please.
+    3. Structure: The instruction can be phrased as a command or a question.
+    
+3. **Instruction MOVE**
+    1. Movement action: Key word that asks specifically for movement
+    2. Quantity: The quantity of spaces thar the robot should move
+    3. Type of quanity: Blocks
+    4. Movement Direction: Forward
+    
+5. **Instruction TURN**
+    1. Turn action: Key word that asks specifically for a turn
+    2. Quantity: 90, 180, 270, 360
+    3. Type of quantity: Degrees
+  
+
+From the results, the follwing tokens were generated.
 
 
 ### Tokens ###
