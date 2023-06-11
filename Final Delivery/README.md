@@ -197,11 +197,11 @@ __**[Github Deliverable IV link](https://github.com/DelRosal/IMEC/tree/main/Fina
 
 After downloading the repository, run the following command:
 
+<img width="700" alt="image" src="https://github.com/DelRosal/IMEC/assets/99361062/20abeeea-143f-4f10-ace3-007d02c44320">
 
 ## Appendix ##
 
-![WhatsApp Image 2023-06-08 at 09 57 07](https://github.com/DelRosal/IMEC/assets/99361062/2b247082-814d-403b-9002-2db5d1e56725)
+<img width= "700" alt="image" src="https://github.com/DelRosal/IMEC/assets/99361062/2b247082-814d-403b-9002-2db5d1e56725">
 
-![WhatsApp Image 2023-06-08 at 09 57 08](https://github.com/DelRosal/IMEC/assets/99361062/484304c3-31e7-41d2-b9ba-66f1fa0dea55)
+<img width= "700" alt="image" src="https://github.com/DelRosal/IMEC/assets/99361062/484304c3-31e7-41d2-b9ba-66f1fa0dea55">
 
-![WhatsApp Image 2023-06-08 at 09 57 0888](https://github.com/DelRosal/IMEC/assets/99361062/295bc702-4ac4-446b-a98d-fc426ac54ec0)
