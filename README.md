@@ -12,6 +12,12 @@ Iker Ochoa Villaseñor  A01640984
 
 Santiago Vera Espinoza A01641585
 
+## Running the Robot Language Compiler ##
+
+After downloading the repository, run the following command:
+
+
+
 ## Deliverable I: Basic CPU ##
 
 Fine Automata implementation and Python CPU Simulator. Description of the problematic and expected results.
