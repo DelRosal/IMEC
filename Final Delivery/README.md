@@ -197,7 +197,7 @@ __**[Github Deliverable IV link](https://github.com/DelRosal/IMEC/tree/main/Fina
 
 After downloading the repository, run the following command:
 
-<img width="700" alt="image" src="https://github.com/DelRosal/IMEC/assets/99361062/20abeeea-143f-4f10-ace3-007d02c44320">
+<img width="700" src="https://github.com/DelRosal/IMEC/assets/99361062/cf56865d-413f-4fb8-8ed9-5b459a6d3a9f">
 
 Only available on Linux 
 
