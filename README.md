@@ -18,7 +18,7 @@ After downloading the repository, run the following command:
 
 ![code-snapshot](https://github.com/DelRosal/IMEC/assets/99361062/5c2642f6-22dc-4910-a76e-0175845c00bc)
 
-For windows, add "Bash chmod -x" before the name of the bash script.
+Only available for Linux
 
 ## Deliverable I: Basic CPU ##
 
