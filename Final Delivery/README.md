@@ -178,3 +178,18 @@ Yacc          | MOV 3, TURN 90, MOV 2
 
 __**[Github Deliverable III link](https://github.com/DelRosal/IMEC/tree/main/CFG%20Yacc_Lex "Deliverable III")**__ 
 
+## Deliverable IV: Scripting and Unit Testing ##
+
+The unit test runs in a Bash Script making it possible to execute all files at once. Inside a text file, the test cases are divided between successful and failing tests.
+
+A Bash Script opens the text file and through a while loop, each line of text is read and individually the following scripts are executed:
+
+1. The line that is currently being read is written to the instructions.txt file, becoming the input of the compiler and dictating the possible results.
+2. The finalProyect.exec file is executed, which contains the yacc and lex libraries that create the parser, which will check if the input is valid, as well as generate the instructions.asm file, containting the instructions that the CPU will recieve. The result must PASS, otherwise it will FAIL and stop the process.
+3. In the input is valid,  the python CPU Simulation is excecuted, having the .asm as input and showing in real time the movements made by the robot and its destination.
+
+The cycle is repeated until all the text lines of the test cases are analyzed.
+
+__**[Github Deliverable IV link](https://github.com/DelRosal/IMEC/tree/main/Final%20Delivery "Deliverable IV")**__ 
+
+
