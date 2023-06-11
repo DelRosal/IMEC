@@ -52,6 +52,10 @@ Human language| Robot please move 3 blocks ahead and then turn 90 degrees, and t
 Lex           | ROBOT PLEASE MOVE AMOUNT BLOCKS DIRECTION CONJUNCTION CONJUNCTION TURN DEGREES DEGREEW CONJUNCTION CONJUNCTION MOVE AMOUNT BLOCKS
 Yacc          | MOV 3, TURN 90, MOV 2
 
+## Code ##
+
+![WhatsApp Image 2023-06-08 at 09 57 08](https://github.com/DelRosal/IMEC/assets/99361062/f89c859d-1696-41f1-86a2-97356466d60a)
+
 
 ## Links ##
 
