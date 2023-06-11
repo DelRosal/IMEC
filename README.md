@@ -16,7 +16,7 @@ Santiago Vera Espinoza A01641585
 
 After downloading the repository, run the following command:
 
-![code-snapshot](https://github.com/DelRosal/IMEC/assets/99361062/5c2642f6-22dc-4910-a76e-0175845c00bc)
+![code-snapshot](https://github.com/DelRosal/IMEC/assets/99361062/9791c8c6-a52b-4145-9e91-66aad137a000)
 
 Only available for Linux
 
