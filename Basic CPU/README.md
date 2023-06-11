@@ -52,7 +52,14 @@ Each state represents a function that the python file executes, with the excepti
 
 On the other hand, the alphabet is a set of triggers (instructions) that initiate different functions. For example, if the robot is in the WAITING state and receives “MOV 3” it will provoke the MOVE function to start (with 3 as an argument), and then return to the WAITING state.
 
+### CPU Simulator ###
 
+The CPU Simulator in Python works using a coordenates class. This object has overloaded operators that manage the operations with the different coordenates, and the corresponding limits of the matrix. The class uses an integer to determine the Robot's direction, and depending on its value, a different directional coordenate is chosen.
+
+The script reads the instructions and split them by the commas (,). That way the CPU Simulator can determine the action it must do as well as the quantity of times. Each movement is generated and presented in a map with UNICODE characters, representing the current values, direction and position of the robot. If the script recieves a MOVE instruction that exceeds the matrix, the robot will remain in its last position.
+
+
+## Links ##
 __**[Github Main Project link](https://github.com/DelRosal/IMEC "Main Project")**__
 
 __**[Github Deliverable I link](https://github.com/DelRosal/IMEC/tree/main/Basic%20CPU "Deliverable I")**__ 
