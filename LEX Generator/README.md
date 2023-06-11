@@ -71,6 +71,11 @@ AMOUNT        | [0-9]+
 7. Turn 90 degrees and then move 3 blocks
 8. move 4 blocks
 
+## Code ##
+
+![WhatsApp Image 2023-06-08 at 09 57 07](https://github.com/DelRosal/IMEC/assets/99361062/7a26d03b-dffd-4aa7-85be-35ba61c54e22)
+
+
 ## Links ##
 
 __**[Github Main Project link](https://github.com/DelRosal/IMEC "Main Project")**__
