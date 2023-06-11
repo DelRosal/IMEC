@@ -9,7 +9,11 @@ echo "Santiago Vera Espinoza | A01641585"
 echo "Ana Luisa G. Del Rosal | A01566927 "
 echo "Iker Ochoa Villaseñor  | A0164098"
 
-sleep 3
+yacc -d finalProject.y
+lex finalProject.l
+gcc y.tab.c lex.yy.c -ly -ll -o finalProject
+
+sleep 2
 clear
 while IFS= read -r line
 do
@@ -29,12 +33,12 @@ do
         sleep 3
         echo ''
         echo 'Answer: '
-        echo "$line" > instruction.txt
-        ./finalProyect instruction.txt
+        echo "$line" > instructions.txt
+        ./finalProject instructions.txt
         echo "Executing python..."
-        sleep 3
+        sleep 2
         python3 cpu.py
-        sleep 5
+        sleep 3
 
         else 
         echo 'FAIL'
@@ -43,10 +47,10 @@ do
         sleep 3
         echo ''
         echo 'Answer: '
-        echo "$line" > instruction.txt
-        ./finalProyect instruction.txt
+        echo "$line" > instructions.txt
+        ./finalProject instructions.txt
         echo "Jumping Next Instruction..."
-        sleep 5
+        sleep 4
     fi
     clear
 done < "$input"
