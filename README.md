@@ -1,7 +1,12 @@
-# IMEC
-Public repository for the development of Robot Language Compiler 
+Implementation of Computational Methods: Robot Language Compiler
+=====
 
-### Students ###
+Tecnológico de Monterrey Campus Guadalajara
+
+Victor Rodríguez
+
+
+## Students ##
 Ana Luisa G. del Rosal A01566927
 
 Iker Ochoa Villaseñor  A01640984
