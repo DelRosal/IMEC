@@ -3,7 +3,7 @@ Implementation of Computational Methods: Robot Language Compiler
 
 Tecnológico de Monterrey Campus Guadalajara
 
-Victor Rodríguez
+_**Professor Victor Rodríguez**_
 
 
 ## Students ##
