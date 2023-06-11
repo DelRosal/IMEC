@@ -16,7 +16,7 @@ Santiago Vera Espinoza A01641585
 
 After downloading the repository, run the following command:
 
-
+![code-snapshot](https://github.com/DelRosal/IMEC/assets/99361062/5c2642f6-22dc-4910-a76e-0175845c00bc)
 
 ## Deliverable I: Basic CPU ##
 
