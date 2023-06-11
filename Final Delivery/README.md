@@ -199,6 +199,8 @@ After downloading the repository, run the following command:
 
 <img width="700" alt="image" src="https://github.com/DelRosal/IMEC/assets/99361062/20abeeea-143f-4f10-ace3-007d02c44320">
 
+Only available on Linux 
+
 ## Appendix ##
 
 <img width= "700" alt="image" src="https://github.com/DelRosal/IMEC/assets/99361062/2b247082-814d-403b-9002-2db5d1e56725">
