@@ -201,6 +201,9 @@ After downloading the repository, run the following command:
 
 Only available on Linux 
 
+__**[Testing Video link]( https://drive.google.com/file/d/1_FMGxOuCYe3LhBRiGyHOsclz0zoEa7Wr/view?usp=sharing "Testing Video")**__ 
+
+
 ## Appendix ##
 
 <img width= "700" alt="image" src="https://github.com/DelRosal/IMEC/assets/99361062/2b247082-814d-403b-9002-2db5d1e56725">
