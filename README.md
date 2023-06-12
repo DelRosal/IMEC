@@ -20,6 +20,8 @@ After downloading the repository, run the following command:
 
 Only available for Linux
 
+__**[Testing Video link]( https://drive.google.com/file/d/1_FMGxOuCYe3LhBRiGyHOsclz0zoEa7Wr/view?usp=sharing "Testing Video")**__ 
+
 ## Deliverable I: Basic CPU ##
 
 Fine Automata implementation and Python CPU Simulator. Description of the problematic and expected results.
